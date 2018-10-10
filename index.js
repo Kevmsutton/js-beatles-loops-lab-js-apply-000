@@ -17,7 +17,7 @@ return array2
 }
 
 
-function doWhile(number){
+function iLoveTheBeatles(number){
 var array = [];
 var i = 0;
 

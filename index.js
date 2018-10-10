@@ -17,7 +17,7 @@ return array2
 }
 
 
-function iLoveTheBeatles(number){
+function doWhile(number){
 var array = [];
 var i = 0;
 
@@ -26,8 +26,8 @@ if(number < 15){
 do {
   i = i + 1;
   array.push (`I love the Beatles!`)
-} while (i < number);
+} while (i < 15 - number);
 
-return array;
+return (array);
 }
 }
